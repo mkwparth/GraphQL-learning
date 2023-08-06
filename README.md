@@ -1,2 +1,3 @@
 # GraphQL-learning
 in this repo i wrote graphql code ... how crud operation is done using graphql and integration with react too...
+code available in master branch.
